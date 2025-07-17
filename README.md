@@ -3,9 +3,6 @@
 
 
 
-![Uploading 2024_01_20_12_59_IMG_6697.PNG…]()
-
-![Uploading 2024_01_20_12_59_IMG_6695.PNG…]()
 <img width="1284" height="2778" alt="2024_01_20_12_59_IMG_6694" src="https://github.com/user-attachments/assets/b2358f9a-255d-4c24-946d-b1570e36e264" />
 <img width="1284" height="2778" alt="2024_01_20_12_59_IMG_6693" src="https://github.com/user-attachments/assets/4792a0aa-8251-4172-bb77-0a2f64ab1627" />
 <img width="1284" height="2778" alt="2024_01_20_12_59_IMG_6692" src="https://github.com/user-attachments/assets/4fa1ea58-7074-4101-9720-ee028fc1a27f" />
