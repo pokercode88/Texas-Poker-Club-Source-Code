@@ -65,13 +65,11 @@
 
 | 俱乐部大厅 | 人脸识别 | 比赛页面 |
 |:---:|:---:|:---:|
-![07个人中心](https://github.com/user-attachments/assets/a57203c1-0b9b-43a1-882a-ba4ce6ec3f0f)
-![06牌局](https://github.com/user-attachments/assets/1f0a8d16-b403-4fe5-b99e-d915278841e1)
-![05创建牌局](https://github.com/user-attachments/assets/28205f02-d0b1-47b3-aa83-a9be273257e9)
-![04俱乐部](https://github.com/user-attachments/assets/859a6768-9398-4b81-96a6-e1f84bfcde23)
-![03大厅](https://github.com/user-attachments/assets/995faa68-6f7e-428f-896d-c22a238e0b28)
-![02大厅](https://github.com/user-attachments/assets/698f9373-1d22-46e7-95f0-aed0b3024e56)
-![01登录](https://github.com/user-attachments/assets/faeec1bf-873e-4bce-a9da-881feee66e58)
+![E321CA2122D1DFD5E409E43D2210225A](https://github.com/user-attachments/assets/363b2513-3967-40a8-9a7e-95cd824a52e1)
+![45F25321DE41CEEDEC3CF7183FD3C675](https://github.com/user-attachments/assets/3ef767f1-6f1a-40a0-bf27-d9986ec15b68)
+![40A0D8F11618D18FC71051F2B6AB23B5](https://github.com/user-attachments/assets/cd20b2e0-cd01-4994-a1c4-659bde494db6)
+![9A04AC9A3B24114A5FB08ECB6732DD39](https://github.com/user-attachments/assets/b71407e0-d179-49d3-8649-63f751590497)
+![5D92E1A5440929764F856722759CB898](https://github.com/user-attachments/assets/e34534bb-5750-4497-9448-385f3c98fd7f)
 
 ---
 
