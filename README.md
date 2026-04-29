@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🃏 德州扑克俱乐部源码 | 德州撲克俱樂部源碼 | Texas Poker Club Source Code
+# 🃏 德州竞技赛|德州赛事|德州扑克俱乐部源码 | 德州撲克俱樂部源碼 | Texas Poker Club Source Code
 
 **人脸识别 · 线下比赛 · 打门票 · 锦标赛系统 · 可上线iOS**
 
@@ -61,10 +61,7 @@
 
 ## 📸 界面截图 | Screenshots
 
-> **请将你的游戏截图拖拽到下方**（建议：俱乐部大厅、人脸识别界面、比赛页面各一张）
 
-| 俱乐部大厅 | 人脸识别 | 比赛页面 |
-|:---:|:---:|:---:|
 ![E321CA2122D1DFD5E409E43D2210225A](https://github.com/user-attachments/assets/363b2513-3967-40a8-9a7e-95cd824a52e1)
 ![45F25321DE41CEEDEC3CF7183FD3C675](https://github.com/user-attachments/assets/3ef767f1-6f1a-40a0-bf27-d9986ec15b68)
 ![40A0D8F11618D18FC71051F2B6AB23B5](https://github.com/user-attachments/assets/cd20b2e0-cd01-4994-a1c4-659bde494db6)
@@ -73,13 +70,8 @@
 
 ---
 
-## 📁 源码结构 | 源碼結構 | Source Code Structure
-
-
-
 ---
 
-## 🚀 快速体验 | Quick Start
 
 ### 获取完整源码
 
